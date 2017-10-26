@@ -11,3 +11,11 @@ $family-primary: $family-serif;
   background: wheat;
   padding: 10vh 5vw 10vh 5vw;
 }
+
+body {
+  padding: 5vh 5vw 5vh 5vw; 
+}
+
+a:hover {
+  color: $pink;
+}
