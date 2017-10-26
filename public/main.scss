@@ -1,0 +1,13 @@
+$blue: #72d0eb;
+$pink: #ffb3b3;
+$pink-invert: #fff;
+$family-serif: "Merriweather", "Georgia", serif;
+$primary: $pink;
+$primary-invert: $pink-invert;
+$family-primary: $family-serif;
+
+.column {
+  border: 3px solid $pink;
+  background: wheat;
+  padding: 10vh 5vw 10vh 5vw;
+}
