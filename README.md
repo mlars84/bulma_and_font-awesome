@@ -7,7 +7,7 @@
 - open-in-browser
 
 ## Built With
-- html5, css3, bulma, font-awesome, yarn
+- html5, css3, sass, bulma, font-awesome, yarn
 
 ## Acknowledgments
 - bulma and font-awesome crew
