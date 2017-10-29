@@ -1,5 +1,11 @@
 @import "../vendors/bulma/sass/utilities/initial-variables.sass";
 
+// Theme
+$main: #3C8D2F;
+$dark: #0A4600;
+$medium: #1E6912;
+$light: #97D38D;
+
 $blue: #72d0eb;
 $pink: #ffb3b3;
 $pink-invert: #fff;
@@ -16,14 +22,16 @@ $family-primary: $family-serif;
 
 body {
   padding: 5vh 5vw 5vh 5vw; 
+  background: $medium;
+  color: $dark;
+}
+
+.container {
+  background: $light;
 }
 
 a:hover {
   color: $pink;
 }
 
-// .button {
-//   background: $blue;
-//   color: white;
-// }
 
