@@ -4,10 +4,11 @@
 
 ## Getting Started
 - $ yarn install
-- open-in-browser
+- $ yarn start
+- PORT = 4567
 
 ## Built With
-- html5, css3, sass, bulma, font-awesome, yarn
+- html5, css3, sass, bulma, font-awesome, Node/Express, yarn
 
 ## Acknowledgments
 - bulma and font-awesome crew
